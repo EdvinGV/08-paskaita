@@ -1,0 +1,53 @@
+.glob-header,
+.glob-main,
+.glob-footer {
+    background-color: rgb(18, 163, 163);
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+}
+
+.style-up {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.glob-header {
+    background-color: brown;
+}
+
+.logo {
+    width: 200px;
+}
+
+h1 {}
+
+
+
+.glob-main {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-left {}
+
+.main-right {
+    float: right;
+}
+
+.mfooter {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.fsocials {
+    font-size: 30px;
+}
+
+
+
+.bwlogo {
+    width: 200px;
+}

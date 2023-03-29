@@ -1,3 +1,5 @@
 @import "../base/base.css";
 @import'../base/layout.css';
 @import "../3rd-party/css/all.min.css";
+@import "../components/clock.css";
+@import "../components/mouse.css"

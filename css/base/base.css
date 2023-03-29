@@ -4,31 +4,6 @@ body * {
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-}
+    text-decoration: none;
 
-.bg-main {
-    background-color: aqua;
-
-
-
-}
-
-.style-up {
-    text-transform: uppercase;
-    font-weight: bold;
-}
-
-
-
-
-.logo {}
-
-.fsocials {
-    font-size: 30px;
-}
-
-
-
-.bwlogo {
-    width: 200px;
 }
